@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1372524756 source:d:\softwareprojects\astoniaalchemy\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<iostream>
+	<string>
+	<shellapi.h>
+	"resource.h"
+	"alchemy.h"
+
+1372403738 d:\softwareprojects\astoniaalchemy\resource.h
+
+1372529977 source:d:\softwareprojects\astoniaalchemy\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1372529446 d:\softwareprojects\astoniaalchemy\alchemy.h
+	<string>
+	<iostream>
+	<sstream>
+
+1372393447 source:d:\softwareprojects\astoniaalchemy\alcfuncts.cpp
+
